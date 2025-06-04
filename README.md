@@ -4,7 +4,7 @@
 📍 Sialkot, Pakistan  
 📧 Mzeeshanriaz1555@gmail.com  
 📞 +92 321 6087538  
-🔗 [LinkedIn](https://linkedin.com/in/zeeshanriaz) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://linkedin.com/in/zeeshanriaz) | [GitHub](https://github.com/Mzeeshanriaz)
 
 ---
 
