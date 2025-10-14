@@ -2,7 +2,7 @@
 Full-Stack Developer | DevOps Engineer | Team Lead  
 Sialkot, Pakistan  
 Email: Mzeeshanriaz1555@gmail.com | Phone: +92 321 6087538  
-GitHub: [github.com/Mzeeshanriaz](https://github.com/Mzeeshanriaz) | LinkedIn: [linkedin.com/in/zeeshanriaz](https://linkedin.com/in/zeeshanriaz)  
+GitHub: [github.com/Mzeeshanriaz](https://github.com/Mzeeshanriaz) | LinkedIn: [linkedin.com/in/Mzeeshanriaz](https://linkedin.com/in/Mzeeshanriaz)  
 
 ---
 
