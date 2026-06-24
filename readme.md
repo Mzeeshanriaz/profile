@@ -68,19 +68,19 @@ Full-stack and DevOps engineer with 10+ years of experience designing, shipping,
 
 ## Projects
 
-- **640 Bourke St** (2025) — [640bourkest.com.au](https://640bourkest.com.au/)
+- **640 Bourke St**  — [640bourkest.com.au](https://640bourkest.com.au/)
   Backend developer on a single-property sales platform presenting the development and its individual lots for sale. Built the backend in NestJS, powering the lot listings, availability, and sales presentation.
 
-- **Agency Access FEC** (2025)
+- **Agency Access FEC** 
   Full-stack property-management CRM for managing Lots and their associated projects. Built with Laravel + MySQL on the backend and Angular on the front end, deployed on AWS. Delivered end-to-end: data model, REST APIs, Angular UI, and production deployment/infrastructure.
 
 - **PropVesting**
   AI-powered real estate tool leveraging Domain CRM for property data and using OpenAI to generate prompts and estimates.
 
-- **WellB** (2022–2023)
+- **WellB** 
   Led backend and API development: Express.js + WebSockets + Stripe + MongoDB. Deployed on Ubuntu servers.
 
-- **iCentra** (2021–2022)
+- **iCentra** 
   Laravel-based management system with campaign tools, CRM integrations (EagleAgent, VaultRE), and PDF generation. Used AWS S3 for asset storage and RDS for data.
 
 - **Real Giving**
