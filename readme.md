@@ -7,7 +7,7 @@ GitHub: [github.com/Mzeeshanriaz](https://github.com/Mzeeshanriaz) | LinkedIn: [
 ---
 
 ## Professional Summary
-Full-stack and DevOps engineer with 9+ years of experience designing, shipping, and owning production systems end to end. I lead a team and steer technical direction from concept to deployment across Laravel and Node.js stacks on AWS. I build AI-enabled product features, run secure cloud infrastructure, and use AI-assisted development workflows to ship faster while keeping a strong bar on code quality, reliability, and security. Comfortable being the person accountable for what runs in production.
+Full-stack and DevOps engineer with 10+ years of experience designing, shipping, and owning production systems end to end. I lead a team and steer technical direction from concept to deployment across Laravel and Node.js stacks on AWS. I build AI-enabled product features, run secure cloud infrastructure, and use AI-assisted development workflows to ship faster while keeping a strong bar on code quality, reliability, and security. Comfortable being the person accountable for what runs in production.
 
 ---
 
